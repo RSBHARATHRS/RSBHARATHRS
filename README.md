@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Java
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning, sorry I'm always learning what ever I can learn.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ## Education
-- **B.E : Computer Science and Engineering**  -with a CGPA 7.82/10. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2016-2020)  
+- **B.E : Computer Science and Engineering**  -with a CGPA 7.82/10. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2016-2020)  
   PET Engineering College, Valliyoor,
   Anna University - Chennai.  
 - **HSC : Maths Computer** – with 81% of marks &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;  (2014-2016)  
