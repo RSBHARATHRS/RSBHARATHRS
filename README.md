@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning, sorry I'm always learning what ever I can learn.
+- 🌱 I’m currently learning, sorry I'm always learning.
 - 👯 I’m looking to collaborate on Front End Development
 - 🤔 I’m looking for help with skilfulness person
 - 📫 How to reach me: bh03051999@gmail.com
