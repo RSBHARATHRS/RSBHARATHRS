@@ -21,3 +21,9 @@
   Walker Hr. Sec. School - Dohnavur.  
 - **SSLC : Passed** -with 89.8% of marks  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2004-2014)  
   Walker Hr. Sec. School - Dohnavur.
+
+## Programming Lang. Known
+- **Programming Languages :** C, C++, Python, Java
+- **Web Technologies :** HTML, CSS, JavaScript, TypeScript, Angular
+- **Database :** Oracle, Firebase
+- **Version Control System :** Git & GitHub
